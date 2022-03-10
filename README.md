@@ -25,7 +25,7 @@ are used in the program.
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/v7QlLlj.jpg)
-![App Screenshot](https://i.imgur.com/qyUnK8e.jpg)
+![App Screenshot](https://i.imgur.com/ymwoJ18.jpg)
 ![App Screenshot](https://i.imgur.com/QEeQ0wK.jpg)
 ![App Screenshot](https://i.imgur.com/v8Pn0fv.jpg)
 
